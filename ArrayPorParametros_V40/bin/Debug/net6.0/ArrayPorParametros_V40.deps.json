@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArrayPorParametros_V40/1.0.0": {
+        "runtime": {
+          "ArrayPorParametros_V40.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArrayPorParametros_V40/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

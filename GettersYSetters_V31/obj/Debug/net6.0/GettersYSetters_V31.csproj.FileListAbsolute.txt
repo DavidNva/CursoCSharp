@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/bin/Debug/net6.0/GettersYSetters_V31
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/bin/Debug/net6.0/GettersYSetters_V31.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/bin/Debug/net6.0/GettersYSetters_V31.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/bin/Debug/net6.0/GettersYSetters_V31.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/bin/Debug/net6.0/GettersYSetters_V31.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/GettersYSetters_V31.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/GettersYSetters_V31.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/GettersYSetters_V31.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/GettersYSetters_V31.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/GettersYSetters_V31.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/GettersYSetters_V31.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/refint/GettersYSetters_V31.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/GettersYSetters_V31.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/GettersYSetters_V31.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/GettersYSetters_V31/obj/Debug/net6.0/ref/GettersYSetters_V31.dll

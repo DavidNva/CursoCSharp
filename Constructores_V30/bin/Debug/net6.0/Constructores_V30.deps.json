@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Constructores_V30/1.0.0": {
+        "runtime": {
+          "Constructores_V30.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Constructores_V30/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

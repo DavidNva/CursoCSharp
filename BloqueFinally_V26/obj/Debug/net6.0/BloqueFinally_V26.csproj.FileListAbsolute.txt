@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/BloqueFinally_V26.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/BloqueFinally_V26.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/BloqueFinally_V26.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/BloqueFinally_V26.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/BloqueFinally_V26.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/bin/Debug/net6.0/BloqueFinally_V26
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/bin/Debug/net6.0/BloqueFinally_V26.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/bin/Debug/net6.0/BloqueFinally_V26.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/bin/Debug/net6.0/BloqueFinally_V26.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/bin/Debug/net6.0/BloqueFinally_V26.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/BloqueFinally_V26.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/refint/BloqueFinally_V26.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/BloqueFinally_V26.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/BloqueFinally_V26.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BloqueFinally_V26/obj/Debug/net6.0/ref/BloqueFinally_V26.dll

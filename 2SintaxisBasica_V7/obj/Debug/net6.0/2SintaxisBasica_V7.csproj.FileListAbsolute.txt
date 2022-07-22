@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/bin/Debug/net6.0/2SintaxisBasica_V7
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/bin/Debug/net6.0/2SintaxisBasica_V7.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/bin/Debug/net6.0/2SintaxisBasica_V7.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/bin/Debug/net6.0/2SintaxisBasica_V7.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/bin/Debug/net6.0/2SintaxisBasica_V7.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/2SintaxisBasica_V7.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/2SintaxisBasica_V7.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/2SintaxisBasica_V7.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/2SintaxisBasica_V7.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/2SintaxisBasica_V7.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/2SintaxisBasica_V7.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/refint/2SintaxisBasica_V7.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/2SintaxisBasica_V7.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/2SintaxisBasica_V7.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/2SintaxisBasica_V7/obj/Debug/net6.0/ref/2SintaxisBasica_V7.dll

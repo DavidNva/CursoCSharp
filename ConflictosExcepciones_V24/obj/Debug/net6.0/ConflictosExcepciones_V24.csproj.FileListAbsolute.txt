@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/bin/Debug/net6.0/ConflictosExcepciones_V24
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/bin/Debug/net6.0/ConflictosExcepciones_V24.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/bin/Debug/net6.0/ConflictosExcepciones_V24.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/bin/Debug/net6.0/ConflictosExcepciones_V24.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/bin/Debug/net6.0/ConflictosExcepciones_V24.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ConflictosExcepciones_V24.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ConflictosExcepciones_V24.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ConflictosExcepciones_V24.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ConflictosExcepciones_V24.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ConflictosExcepciones_V24.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ConflictosExcepciones_V24.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/refint/ConflictosExcepciones_V24.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ConflictosExcepciones_V24.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ConflictosExcepciones_V24.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConflictosExcepciones_V24/obj/Debug/net6.0/ref/ConflictosExcepciones_V24.dll

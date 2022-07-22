@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/home/davidnava/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesAbstractas_V52/ClasesAbstractas_V52.csproj",
+      "projectName": "ClasesAbstractas_V52",
+      "projectPath": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesAbstractas_V52/ClasesAbstractas_V52.csproj",
+      "packagesPath": "/home/davidnava/.nuget/packages/",
+      "outputPath": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesAbstractas_V52/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/davidnava/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

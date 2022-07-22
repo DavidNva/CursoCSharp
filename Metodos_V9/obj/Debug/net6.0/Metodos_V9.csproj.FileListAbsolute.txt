@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/bin/Debug/net6.0/Metodos_V9
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/bin/Debug/net6.0/Metodos_V9.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/bin/Debug/net6.0/Metodos_V9.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/bin/Debug/net6.0/Metodos_V9.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/bin/Debug/net6.0/Metodos_V9.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/Metodos_V9.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/Metodos_V9.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/Metodos_V9.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/Metodos_V9.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/Metodos_V9.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/Metodos_V9.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/refint/Metodos_V9.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/Metodos_V9.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/Metodos_V9.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Metodos_V9/obj/Debug/net6.0/ref/Metodos_V9.dll

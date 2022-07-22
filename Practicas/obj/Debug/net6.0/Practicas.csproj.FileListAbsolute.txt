@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/bin/Debug/net6.0/Practicas
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/bin/Debug/net6.0/Practicas.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/bin/Debug/net6.0/Practicas.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/bin/Debug/net6.0/Practicas.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/bin/Debug/net6.0/Practicas.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/Practicas.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/Practicas.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/Practicas.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/Practicas.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/Practicas.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/Practicas.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/refint/Practicas.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/Practicas.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/Practicas.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Practicas/obj/Debug/net6.0/ref/Practicas.dll

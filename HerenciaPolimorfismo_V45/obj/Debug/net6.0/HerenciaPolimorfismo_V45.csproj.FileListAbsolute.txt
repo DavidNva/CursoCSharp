@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/bin/Debug/net6.0/HerenciaPolimorfismo_V45
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/bin/Debug/net6.0/HerenciaPolimorfismo_V45.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/bin/Debug/net6.0/HerenciaPolimorfismo_V45.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/bin/Debug/net6.0/HerenciaPolimorfismo_V45.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/bin/Debug/net6.0/HerenciaPolimorfismo_V45.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/HerenciaPolimorfismo_V45.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/HerenciaPolimorfismo_V45.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/HerenciaPolimorfismo_V45.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/HerenciaPolimorfismo_V45.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/HerenciaPolimorfismo_V45.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/HerenciaPolimorfismo_V45.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/refint/HerenciaPolimorfismo_V45.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/HerenciaPolimorfismo_V45.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/HerenciaPolimorfismo_V45.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/HerenciaPolimorfismo_V45/obj/Debug/net6.0/ref/HerenciaPolimorfismo_V45.dll

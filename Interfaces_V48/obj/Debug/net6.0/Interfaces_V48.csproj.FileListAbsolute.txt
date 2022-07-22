@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/bin/Debug/net6.0/Interfaces_V48
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/bin/Debug/net6.0/Interfaces_V48.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/bin/Debug/net6.0/Interfaces_V48.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/bin/Debug/net6.0/Interfaces_V48.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/bin/Debug/net6.0/Interfaces_V48.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/Interfaces_V48.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/Interfaces_V48.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/Interfaces_V48.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/Interfaces_V48.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/Interfaces_V48.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/Interfaces_V48.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/refint/Interfaces_V48.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/Interfaces_V48.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/Interfaces_V48.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Interfaces_V48/obj/Debug/net6.0/ref/Interfaces_V48.dll

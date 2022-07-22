@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/bin/Debug/net6.0/CondicionalSwitch_V18
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/bin/Debug/net6.0/CondicionalSwitch_V18.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/bin/Debug/net6.0/CondicionalSwitch_V18.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/bin/Debug/net6.0/CondicionalSwitch_V18.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/bin/Debug/net6.0/CondicionalSwitch_V18.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/CondicionalSwitch_V18.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/CondicionalSwitch_V18.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/CondicionalSwitch_V18.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/CondicionalSwitch_V18.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/CondicionalSwitch_V18.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/CondicionalSwitch_V18.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/refint/CondicionalSwitch_V18.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/CondicionalSwitch_V18.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/CondicionalSwitch_V18.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/CondicionalSwitch_V18/obj/Debug/net6.0/ref/CondicionalSwitch_V18.dll

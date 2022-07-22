@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/bin/Debug/net6.0/BucleForEach_V39
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/bin/Debug/net6.0/BucleForEach_V39.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/bin/Debug/net6.0/BucleForEach_V39.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/bin/Debug/net6.0/BucleForEach_V39.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/bin/Debug/net6.0/BucleForEach_V39.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/BucleForEach_V39.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/BucleForEach_V39.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/BucleForEach_V39.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/BucleForEach_V39.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/BucleForEach_V39.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/BucleForEach_V39.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/refint/BucleForEach_V39.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/BucleForEach_V39.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/BucleForEach_V39.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/BucleForEach_V39/obj/Debug/net6.0/ref/BucleForEach_V39.dll

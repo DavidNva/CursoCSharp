@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/bin/Debug/net6.0/ArrayPorParametros_V40
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/bin/Debug/net6.0/ArrayPorParametros_V40.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/bin/Debug/net6.0/ArrayPorParametros_V40.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/bin/Debug/net6.0/ArrayPorParametros_V40.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/bin/Debug/net6.0/ArrayPorParametros_V40.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ArrayPorParametros_V40.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ArrayPorParametros_V40.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ArrayPorParametros_V40.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ArrayPorParametros_V40.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ArrayPorParametros_V40.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ArrayPorParametros_V40.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/refint/ArrayPorParametros_V40.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ArrayPorParametros_V40.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ArrayPorParametros_V40.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArrayPorParametros_V40/obj/Debug/net6.0/ref/ArrayPorParametros_V40.dll

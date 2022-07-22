@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CondicionalIF_V14/1.0.0": {
+        "runtime": {
+          "CondicionalIF_V14.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CondicionalIF_V14/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/bin/Debug/net6.0/ConceptosPOO_V32
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/bin/Debug/net6.0/ConceptosPOO_V32.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/bin/Debug/net6.0/ConceptosPOO_V32.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/bin/Debug/net6.0/ConceptosPOO_V32.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/bin/Debug/net6.0/ConceptosPOO_V32.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ConceptosPOO_V32.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ConceptosPOO_V32.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ConceptosPOO_V32.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ConceptosPOO_V32.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ConceptosPOO_V32.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ConceptosPOO_V32.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/refint/ConceptosPOO_V32.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ConceptosPOO_V32.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ConceptosPOO_V32.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ConceptosPOO_V32/obj/Debug/net6.0/ref/ConceptosPOO_V32.dll

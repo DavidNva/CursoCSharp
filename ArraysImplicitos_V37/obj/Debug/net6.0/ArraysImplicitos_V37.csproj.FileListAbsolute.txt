@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/bin/Debug/net6.0/ArraysImplicitos_V37
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/bin/Debug/net6.0/ArraysImplicitos_V37.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/bin/Debug/net6.0/ArraysImplicitos_V37.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/bin/Debug/net6.0/ArraysImplicitos_V37.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/bin/Debug/net6.0/ArraysImplicitos_V37.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ArraysImplicitos_V37.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ArraysImplicitos_V37.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ArraysImplicitos_V37.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ArraysImplicitos_V37.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ArraysImplicitos_V37.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ArraysImplicitos_V37.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/refint/ArraysImplicitos_V37.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ArraysImplicitos_V37.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ArraysImplicitos_V37.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ArraysImplicitos_V37/obj/Debug/net6.0/ref/ArraysImplicitos_V37.dll

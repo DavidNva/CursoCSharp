@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BucleForEach_V39/1.0.0": {
+        "runtime": {
+          "BucleForEach_V39.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BucleForEach_V39/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

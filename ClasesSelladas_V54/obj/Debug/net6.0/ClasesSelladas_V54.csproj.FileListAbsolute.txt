@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/bin/Debug/net6.0/ClasesSelladas_V54
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/bin/Debug/net6.0/ClasesSelladas_V54.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/bin/Debug/net6.0/ClasesSelladas_V54.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/bin/Debug/net6.0/ClasesSelladas_V54.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/bin/Debug/net6.0/ClasesSelladas_V54.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ClasesSelladas_V54.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ClasesSelladas_V54.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ClasesSelladas_V54.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ClasesSelladas_V54.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ClasesSelladas_V54.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ClasesSelladas_V54.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/refint/ClasesSelladas_V54.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ClasesSelladas_V54.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ClasesSelladas_V54.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ClasesSelladas_V54/obj/Debug/net6.0/ref/ClasesSelladas_V54.dll

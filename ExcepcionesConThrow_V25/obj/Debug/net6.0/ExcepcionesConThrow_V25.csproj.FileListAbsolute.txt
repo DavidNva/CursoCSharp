@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/bin/Debug/net6.0/ExcepcionesConThrow_V25
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/bin/Debug/net6.0/ExcepcionesConThrow_V25.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/bin/Debug/net6.0/ExcepcionesConThrow_V25.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/bin/Debug/net6.0/ExcepcionesConThrow_V25.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/bin/Debug/net6.0/ExcepcionesConThrow_V25.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ExcepcionesConThrow_V25.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ExcepcionesConThrow_V25.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ExcepcionesConThrow_V25.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ExcepcionesConThrow_V25.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ExcepcionesConThrow_V25.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ExcepcionesConThrow_V25.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/refint/ExcepcionesConThrow_V25.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ExcepcionesConThrow_V25.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ExcepcionesConThrow_V25.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/ExcepcionesConThrow_V25/obj/Debug/net6.0/ref/ExcepcionesConThrow_V25.dll

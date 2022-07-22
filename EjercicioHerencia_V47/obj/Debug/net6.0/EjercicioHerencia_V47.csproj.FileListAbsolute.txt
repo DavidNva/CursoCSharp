@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/bin/Debug/net6.0/EjercicioHerencia_V47
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/bin/Debug/net6.0/EjercicioHerencia_V47.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/bin/Debug/net6.0/EjercicioHerencia_V47.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/bin/Debug/net6.0/EjercicioHerencia_V47.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/bin/Debug/net6.0/EjercicioHerencia_V47.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/EjercicioHerencia_V47.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/EjercicioHerencia_V47.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/EjercicioHerencia_V47.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/EjercicioHerencia_V47.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/EjercicioHerencia_V47.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/EjercicioHerencia_V47.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/refint/EjercicioHerencia_V47.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/EjercicioHerencia_V47.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/EjercicioHerencia_V47.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/EjercicioHerencia_V47/obj/Debug/net6.0/ref/EjercicioHerencia_V47.dll

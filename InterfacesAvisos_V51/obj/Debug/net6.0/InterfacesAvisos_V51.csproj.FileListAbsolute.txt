@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/bin/Debug/net6.0/InterfacesAvisos_V51
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/bin/Debug/net6.0/InterfacesAvisos_V51.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/bin/Debug/net6.0/InterfacesAvisos_V51.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/bin/Debug/net6.0/InterfacesAvisos_V51.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/bin/Debug/net6.0/InterfacesAvisos_V51.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/InterfacesAvisos_V51.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/InterfacesAvisos_V51.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/InterfacesAvisos_V51.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/InterfacesAvisos_V51.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/InterfacesAvisos_V51.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/InterfacesAvisos_V51.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/refint/InterfacesAvisos_V51.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/InterfacesAvisos_V51.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/InterfacesAvisos_V51.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/InterfacesAvisos_V51/obj/Debug/net6.0/ref/InterfacesAvisos_V51.dll
