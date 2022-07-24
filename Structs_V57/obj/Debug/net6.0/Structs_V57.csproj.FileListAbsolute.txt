@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/bin/Debug/net6.0/Structs_V57
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/bin/Debug/net6.0/Structs_V57.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/bin/Debug/net6.0/Structs_V57.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/bin/Debug/net6.0/Structs_V57.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/bin/Debug/net6.0/Structs_V57.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/Structs_V57.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/Structs_V57.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/Structs_V57.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/Structs_V57.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/Structs_V57.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/Structs_V57.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/refint/Structs_V57.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/Structs_V57.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/Structs_V57.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Structs_V57/obj/Debug/net6.0/ref/Structs_V57.dll

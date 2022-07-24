@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/bin/Debug/net6.0/Enum_V58
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/bin/Debug/net6.0/Enum_V58.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/bin/Debug/net6.0/Enum_V58.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/bin/Debug/net6.0/Enum_V58.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/bin/Debug/net6.0/Enum_V58.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/Enum_V58.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/Enum_V58.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/Enum_V58.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/Enum_V58.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/Enum_V58.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/Enum_V58.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/refint/Enum_V58.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/Enum_V58.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/Enum_V58.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Enum_V58/obj/Debug/net6.0/ref/Enum_V58.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Genericos_V60/1.0.0": {
+        "runtime": {
+          "Genericos_V60.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Genericos_V60/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

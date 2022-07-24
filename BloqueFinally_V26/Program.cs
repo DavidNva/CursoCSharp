@@ -55,8 +55,13 @@ namespace BloqueFinally_V26{
                 Console.WriteLine($"Error con la lectura del archivo");
                 
             }finally{
+                //SI el archivo es diferente de null
+                //es decir si el archivo esta abierto, esta en uso, tiene datos (por eso lo de diferente de null)
+                //Entonces cierra el archivo
+                //Obviamente esto se ejecutara despues de haber leido ya el archivo con el try, o si hubo un error, despues del catch
+                //el punto es que el archivo se cerrará una vez que lo dejemos de utilizar
                 if(archivo != null) archivo.Close();//No interverndria si entra en el try o el catch
-                //con el finally nos aseguramos que el flujo de ejecucion pase por estas lieas de codigo
+                //con el finally nos aseguramos que el flujo de ejecucion pase por estas lineas de codigo
                 //y como tal nos aseguramos de cerrar la conexion con el archivo o con una hipotetica base de datos
                 Console.WriteLine($"Conexión con el fichero cerrada");
                 

@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/bin/Debug/net6.0/Genericos_V60
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/bin/Debug/net6.0/Genericos_V60.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/bin/Debug/net6.0/Genericos_V60.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/bin/Debug/net6.0/Genericos_V60.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/bin/Debug/net6.0/Genericos_V60.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/Genericos_V60.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/Genericos_V60.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/Genericos_V60.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/Genericos_V60.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/Genericos_V60.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/Genericos_V60.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/refint/Genericos_V60.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/Genericos_V60.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/Genericos_V60.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Genericos_V60/obj/Debug/net6.0/ref/Genericos_V60.dll

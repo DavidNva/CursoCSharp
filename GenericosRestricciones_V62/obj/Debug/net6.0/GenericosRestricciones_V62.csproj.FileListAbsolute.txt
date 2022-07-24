@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/bin/Debug/net6.0/GenericosRestricciones_V62
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/bin/Debug/net6.0/GenericosRestricciones_V62.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/bin/Debug/net6.0/GenericosRestricciones_V62.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/bin/Debug/net6.0/GenericosRestricciones_V62.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/bin/Debug/net6.0/GenericosRestricciones_V62.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/GenericosRestricciones_V62.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/GenericosRestricciones_V62.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/GenericosRestricciones_V62.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/GenericosRestricciones_V62.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/GenericosRestricciones_V62.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/GenericosRestricciones_V62.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/refint/GenericosRestricciones_V62.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/GenericosRestricciones_V62.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/GenericosRestricciones_V62.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/GenericosRestricciones_V62/obj/Debug/net6.0/ref/GenericosRestricciones_V62.dll

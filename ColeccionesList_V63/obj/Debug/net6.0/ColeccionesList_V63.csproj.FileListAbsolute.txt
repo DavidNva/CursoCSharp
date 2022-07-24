@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/bin/Debug/net6.0/ColeccionesList_V63
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/bin/Debug/net6.0/ColeccionesList_V63.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/bin/Debug/net6.0/ColeccionesList_V63.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/bin/Debug/net6.0/ColeccionesList_V63.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/bin/Debug/net6.0/ColeccionesList_V63.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ColeccionesList_V63.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ColeccionesList_V63.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ColeccionesList_V63.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ColeccionesList_V63.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ColeccionesList_V63.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ColeccionesList_V63.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/refint/ColeccionesList_V63.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ColeccionesList_V63.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ColeccionesList_V63.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ColeccionesList_V63/obj/Debug/net6.0/ref/ColeccionesList_V63.dll

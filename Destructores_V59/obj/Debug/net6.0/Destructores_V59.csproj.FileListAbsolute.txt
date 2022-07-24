@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/bin/Debug/net6.0/Destructores_V59
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/bin/Debug/net6.0/Destructores_V59.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/bin/Debug/net6.0/Destructores_V59.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/bin/Debug/net6.0/Destructores_V59.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/bin/Debug/net6.0/Destructores_V59.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/Destructores_V59.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/Destructores_V59.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/Destructores_V59.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/Destructores_V59.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/Destructores_V59.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/Destructores_V59.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/refint/Destructores_V59.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/Destructores_V59.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/Destructores_V59.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Destructores_V59/obj/Debug/net6.0/ref/Destructores_V59.dll
