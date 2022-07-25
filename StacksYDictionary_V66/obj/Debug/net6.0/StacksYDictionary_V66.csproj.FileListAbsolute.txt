@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/bin/Debug/net6.0/StacksYDictionary_V66
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/bin/Debug/net6.0/StacksYDictionary_V66.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/bin/Debug/net6.0/StacksYDictionary_V66.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/bin/Debug/net6.0/StacksYDictionary_V66.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/bin/Debug/net6.0/StacksYDictionary_V66.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/StacksYDictionary_V66.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/StacksYDictionary_V66.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/StacksYDictionary_V66.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/StacksYDictionary_V66.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/StacksYDictionary_V66.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/StacksYDictionary_V66.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/refint/StacksYDictionary_V66.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/StacksYDictionary_V66.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/StacksYDictionary_V66.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/StacksYDictionary_V66/obj/Debug/net6.0/ref/StacksYDictionary_V66.dll
