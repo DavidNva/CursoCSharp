@@ -58,6 +58,8 @@ namespace StacksYDictionary{
             edades.Add("David",20);//Para agregar usa el metodo add (como las listas), y debemos señalar los dos parametros
             // dependiendo del tipo que indicamos en la instancia
             edades.Add("Teresa",43);
+            //edades.Add("David",43);Si agregamos un valor con una misma clave, el error no se vera hasta la ejecucion (tener en cuenta esto)
+            //por eso no se deben repetir las claves
             edades["Maria"] = 73;//Tambien se pued agregar de esta forma, como si fueran arrays
             edades["Iveth"] = 19;
 

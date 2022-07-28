@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/bin/Debug/net6.0/DelegadosPredicadosEjem2_V68
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/bin/Debug/net6.0/DelegadosPredicadosEjem2_V68.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/bin/Debug/net6.0/DelegadosPredicadosEjem2_V68.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/bin/Debug/net6.0/DelegadosPredicadosEjem2_V68.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/bin/Debug/net6.0/DelegadosPredicadosEjem2_V68.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/DelegadosPredicadosEjem2_V68.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/DelegadosPredicadosEjem2_V68.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/DelegadosPredicadosEjem2_V68.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/DelegadosPredicadosEjem2_V68.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/DelegadosPredicadosEjem2_V68.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/DelegadosPredicadosEjem2_V68.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/refint/DelegadosPredicadosEjem2_V68.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/DelegadosPredicadosEjem2_V68.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/DelegadosPredicadosEjem2_V68.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/DelegadosPredicadosEjem2_V68/obj/Debug/net6.0/ref/DelegadosPredicadosEjem2_V68.dll

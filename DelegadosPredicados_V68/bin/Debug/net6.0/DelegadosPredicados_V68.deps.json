@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DelegadosPredicados_V68/1.0.0": {
+        "runtime": {
+          "DelegadosPredicados_V68.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DelegadosPredicados_V68/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

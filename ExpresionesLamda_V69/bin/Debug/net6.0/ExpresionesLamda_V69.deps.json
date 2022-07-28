@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExpresionesLamda_V69/1.0.0": {
+        "runtime": {
+          "ExpresionesLamda_V69.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExpresionesLamda_V69/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

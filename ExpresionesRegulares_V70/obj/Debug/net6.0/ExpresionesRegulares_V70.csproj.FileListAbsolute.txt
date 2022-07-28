@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/bin/Debug/net6.0/ExpresionesRegulares_V70
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/bin/Debug/net6.0/ExpresionesRegulares_V70.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/bin/Debug/net6.0/ExpresionesRegulares_V70.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/bin/Debug/net6.0/ExpresionesRegulares_V70.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/bin/Debug/net6.0/ExpresionesRegulares_V70.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ExpresionesRegulares_V70.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ExpresionesRegulares_V70.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ExpresionesRegulares_V70.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ExpresionesRegulares_V70.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ExpresionesRegulares_V70.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ExpresionesRegulares_V70.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/refint/ExpresionesRegulares_V70.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ExpresionesRegulares_V70.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ExpresionesRegulares_V70.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesRegulares_V70/obj/Debug/net6.0/ref/ExpresionesRegulares_V70.dll

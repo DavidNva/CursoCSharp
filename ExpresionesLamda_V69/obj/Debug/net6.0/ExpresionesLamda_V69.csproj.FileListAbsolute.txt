@@ -1,0 +1,15 @@
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/bin/Debug/net6.0/ExpresionesLamda_V69
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/bin/Debug/net6.0/ExpresionesLamda_V69.deps.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/bin/Debug/net6.0/ExpresionesLamda_V69.runtimeconfig.json
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/bin/Debug/net6.0/ExpresionesLamda_V69.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/bin/Debug/net6.0/ExpresionesLamda_V69.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ExpresionesLamda_V69.csproj.AssemblyReference.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ExpresionesLamda_V69.GeneratedMSBuildEditorConfig.editorconfig
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ExpresionesLamda_V69.AssemblyInfoInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ExpresionesLamda_V69.AssemblyInfo.cs
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ExpresionesLamda_V69.csproj.CoreCompileInputs.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ExpresionesLamda_V69.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/refint/ExpresionesLamda_V69.dll
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ExpresionesLamda_V69.pdb
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ExpresionesLamda_V69.genruntimeconfig.cache
+/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/ExpresionesLamda_V69/obj/Debug/net6.0/ref/ExpresionesLamda_V69.dll
