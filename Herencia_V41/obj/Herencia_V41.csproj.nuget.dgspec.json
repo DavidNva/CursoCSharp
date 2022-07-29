@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Herencia_V41/Herencia_V41.csproj": {}
+    "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Herencia_V41/Herencia_V41.csproj": {}
   },
   "projects": {
-    "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Herencia_V41/Herencia_V41.csproj": {
+    "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Herencia_V41/Herencia_V41.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Herencia_V41/Herencia_V41.csproj",
+        "projectUniqueName": "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Herencia_V41/Herencia_V41.csproj",
         "projectName": "Herencia_V41",
-        "projectPath": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Herencia_V41/Herencia_V41.csproj",
+        "projectPath": "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Herencia_V41/Herencia_V41.csproj",
         "packagesPath": "/home/davidnava/.nuget/packages/",
-        "outputPath": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/Herencia_V41/obj/",
+        "outputPath": "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/Herencia_V41/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/davidnava/.nuget/NuGet/NuGet.Config"

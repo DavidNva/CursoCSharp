@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\bin\Debug\InterfazGraficaGrid_V76.exe.config
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\bin\Debug\InterfazGraficaGrid_V76.exe
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\bin\Debug\InterfazGraficaGrid_V76.pdb
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76.csprojAssemblyReference.cache
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\MainWindow.g.cs
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\App.g.cs
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76_MarkupCompile.cache
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76_MarkupCompile.lref
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\MainWindow.baml
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76.g.resources
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76.Properties.Resources.resources
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76.csproj.GenerateResource.cache
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76.exe
+D:\Documentos\Cursos\CursoCSharp\InterfazGraficaGrid_V76\InterfazGraficaGrid_V76\obj\Debug\InterfazGraficaGrid_V76.pdb

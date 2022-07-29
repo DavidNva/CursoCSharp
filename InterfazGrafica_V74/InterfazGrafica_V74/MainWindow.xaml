@@ -1,0 +1,15 @@
+﻿<Window x:Class="InterfazGrafica_V74.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InterfazGrafica_V74"
+        mc:Ignorable="d"
+        Title="Principal" Height="450" Width="800">
+    <StackPanel Name="Panel" PreviewMouseLeftButtonDown="Panel_PreviewMouseLeftButtonDown">
+        <Button Content="Dale!" Margin="15" Width="150" HorizontalAlignment="Left"></Button>
+        <Button Content="Dale2!" Margin="15" Width="150" HorizontalAlignment="Center" Click="Button_Click"></Button>
+        <Button Content="Dale3!" Margin="15" Width="150" HorizontalAlignment="Right"></Button>
+        <!--Comentario en XAML-->
+    </StackPanel>
+</Window>

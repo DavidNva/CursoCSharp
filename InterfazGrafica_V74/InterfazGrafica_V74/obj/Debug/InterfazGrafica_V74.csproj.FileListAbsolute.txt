@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\bin\Debug\InterfazGrafica_V74.exe.config
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\bin\Debug\InterfazGrafica_V74.exe
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\bin\Debug\InterfazGrafica_V74.pdb
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\MainWindow.g.cs
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\App.g.cs
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74_MarkupCompile.cache
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74_MarkupCompile.lref
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\MainWindow.baml
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74.g.resources
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74.Properties.Resources.resources
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74.csproj.GenerateResource.cache
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74.exe
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74.pdb
+D:\Documentos\Cursos\CursoCSharp\InterfazGrafica_V74\InterfazGrafica_V74\obj\Debug\InterfazGrafica_V74.csprojAssemblyReference.cache

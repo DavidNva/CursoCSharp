@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\bin\Debug\PrimeraInterfazI.exe.config
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\bin\Debug\PrimeraInterfazI.exe
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\bin\Debug\PrimeraInterfazI.pdb
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI.csprojAssemblyReference.cache
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\MainWindow.g.cs
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\App.g.cs
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI_MarkupCompile.cache
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI_MarkupCompile.lref
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\MainWindow.baml
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI.g.resources
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI.Properties.Resources.resources
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI.csproj.GenerateResource.cache
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI.exe
+D:\Documentos\Cursos\CursoCSharp\PrimeraInterfazI\obj\Debug\PrimeraInterfazI.pdb

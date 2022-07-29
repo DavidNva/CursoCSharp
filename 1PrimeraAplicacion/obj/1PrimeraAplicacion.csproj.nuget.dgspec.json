@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/1PrimeraAplicacion/1PrimeraAplicacion.csproj": {}
+    "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/1PrimeraAplicacion/1PrimeraAplicacion.csproj": {}
   },
   "projects": {
-    "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/1PrimeraAplicacion/1PrimeraAplicacion.csproj": {
+    "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/1PrimeraAplicacion/1PrimeraAplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/1PrimeraAplicacion/1PrimeraAplicacion.csproj",
+        "projectUniqueName": "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/1PrimeraAplicacion/1PrimeraAplicacion.csproj",
         "projectName": "1PrimeraAplicacion",
-        "projectPath": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/1PrimeraAplicacion/1PrimeraAplicacion.csproj",
+        "projectPath": "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/1PrimeraAplicacion/1PrimeraAplicacion.csproj",
         "packagesPath": "/home/davidnava/.nuget/packages/",
-        "outputPath": "/media/davidnava/DAVID SD/Documentos/Cursos/Curso CSharp/1PrimeraAplicacion/obj/",
+        "outputPath": "/media/davidnava/DAVID SD/Documentos/Cursos/CursoCSharp/1PrimeraAplicacion/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/davidnava/.nuget/NuGet/NuGet.Config"
