@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\bin\Debug\DataBinding_V79.exe.config
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\bin\Debug\DataBinding_V79.exe
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\bin\Debug\DataBinding_V79.pdb
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79.csprojAssemblyReference.cache
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\MainWindow.g.cs
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\App.g.cs
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79_MarkupCompile.cache
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79_MarkupCompile.lref
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\MainWindow.baml
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79.g.resources
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79.Properties.Resources.resources
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79.csproj.GenerateResource.cache
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79.exe
+D:\Documentos\Cursos\CursoCSharp\DataBinding_V79\DataBinding_V79\obj\Debug\DataBinding_V79.pdb

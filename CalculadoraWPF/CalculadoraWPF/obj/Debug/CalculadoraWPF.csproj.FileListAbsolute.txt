@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\bin\Debug\CalculadoraWPF.exe.config
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\bin\Debug\CalculadoraWPF.exe
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\bin\Debug\CalculadoraWPF.pdb
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\MainWindow.g.cs
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\App.g.cs
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF_MarkupCompile.cache
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF_MarkupCompile.lref
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\MainWindow.baml
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF.g.resources
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF.Properties.Resources.resources
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF.csproj.GenerateResource.cache
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF.exe
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF.pdb
+D:\Documentos\Cursos\CursoCSharp\CalculadoraWPF\CalculadoraWPF\obj\Debug\CalculadoraWPF.csprojAssemblyReference.cache

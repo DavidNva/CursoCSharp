@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\bin\Debug\ListBox_V81.exe.config
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\bin\Debug\ListBox_V81.exe
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\bin\Debug\ListBox_V81.pdb
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81.csprojAssemblyReference.cache
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\MainWindow.g.cs
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\App.g.cs
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81_MarkupCompile.cache
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81_MarkupCompile.lref
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\MainWindow.baml
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81.g.resources
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81.Properties.Resources.resources
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81.csproj.GenerateResource.cache
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81.exe
+D:\Documentos\Cursos\CursoCSharp\ListBox_V81\ListBox_V81\obj\Debug\ListBox_V81.pdb

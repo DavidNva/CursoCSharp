@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\bin\Debug\RadioButtonSemaforo_V86.exe.config
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\bin\Debug\RadioButtonSemaforo_V86.exe
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\bin\Debug\RadioButtonSemaforo_V86.pdb
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86.csprojAssemblyReference.cache
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\MainWindow.g.cs
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\App.g.cs
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86_MarkupCompile.cache
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86_MarkupCompile.lref
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\MainWindow.baml
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86.g.resources
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86.Properties.Resources.resources
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86.csproj.GenerateResource.cache
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86.exe
+D:\Documentos\Cursos\CursoCSharp\RadioButtonSemaforo_V86\RadioButtonSemaforo_V86\obj\Debug\RadioButtonSemaforo_V86.pdb

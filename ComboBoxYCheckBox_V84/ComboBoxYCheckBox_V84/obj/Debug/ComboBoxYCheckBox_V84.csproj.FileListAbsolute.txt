@@ -1,0 +1,15 @@
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\bin\Debug\ComboBoxYCheckBox_V84.exe.config
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\bin\Debug\ComboBoxYCheckBox_V84.exe
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\bin\Debug\ComboBoxYCheckBox_V84.pdb
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84.csprojAssemblyReference.cache
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\MainWindow.g.cs
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\App.g.cs
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84_MarkupCompile.cache
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84_MarkupCompile.lref
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\MainWindow.baml
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84.g.resources
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84.Properties.Resources.resources
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84.csproj.GenerateResource.cache
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84.csproj.CoreCompileInputs.cache
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84.exe
+D:\Documentos\Cursos\CursoCSharp\ComboBoxYCheckBox_V84\ComboBoxYCheckBox_V84\obj\Debug\ComboBoxYCheckBox_V84.pdb
