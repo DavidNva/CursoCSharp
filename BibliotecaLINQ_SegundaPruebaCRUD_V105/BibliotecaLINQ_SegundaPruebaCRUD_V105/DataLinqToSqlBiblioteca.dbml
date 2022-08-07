@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="BibliotecaApp" Class="DataLinqToSqlBibliotecaDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=LIBERO\Davidsql;Initial Catalog=BibliotecaApp;Integrated Security=True" SettingsObjectName="BibliotecaLINQ_SegundaPruebaCRUD_V105.Properties.Settings" SettingsPropertyName="BibliotecaAppConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Libro" Member="Libro">
+    <Type Name="Libro">
+      <Column Name="IDLibro" Type="System.String" DbType="VarChar(25) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Titulo" Type="System.String" DbType="NVarChar(130) NOT NULL" CanBeNull="false" />
+      <Column Name="Ubicacion" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="NumEdicion" Type="System.String" DbType="VarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="AñoEdicion" Type="System.String" DbType="VarChar(5) NOT NULL" CanBeNull="false" />
+      <Column Name="Volumen" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="NumPaginas" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Observaciones" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Sala" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Categoria" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Editorial" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="Sala_Libro" Member="Sala" ThisKey="ID_Sala" OtherKey="IDSala" Type="Sala" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Sala" Member="Sala">
+    <Type Name="Sala">
+      <Column Name="IDSala" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Sala" Member="Sala1" Type="System.String" DbType="VarChar(30) NOT NULL" CanBeNull="false" />
+      <Association Name="Sala_Libro" Member="Libro" ThisKey="IDSala" OtherKey="ID_Sala" Type="Libro" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TipoPersona" Member="TipoPersona">
+    <Type Name="TipoPersona">
+      <Column Name="IdTipoPersona" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Descripcion" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Association Name="TipoPersona_Usuario" Member="Usuario" ThisKey="IdTipoPersona" OtherKey="ID_TipoPersona" Type="Usuario" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="IDUsuario" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="A_Paterno" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="A_Materno" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Edad" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="EscuelaProcedencia" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Ciudad" Type="System.String" DbType="NVarChar(60) NOT NULL" CanBeNull="false" />
+      <Column Name="Calle" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Telefono" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(100)" CanBeNull="true" />
+      <Column Name="Observaciones" Type="System.String" DbType="VarChar(500)" CanBeNull="true" />
+      <Column Name="ID_TipoPersona" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="FechaCreacion" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Association Name="TipoPersona_Usuario" Member="TipoPersona" ThisKey="ID_TipoPersona" OtherKey="IdTipoPersona" Type="TipoPersona" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
