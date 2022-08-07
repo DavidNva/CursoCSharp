@@ -1,0 +1,15 @@
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\bin\Debug\net6.0\LINQ_Ej1_V100.exe
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\bin\Debug\net6.0\LINQ_Ej1_V100.deps.json
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\bin\Debug\net6.0\LINQ_Ej1_V100.runtimeconfig.json
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\bin\Debug\net6.0\LINQ_Ej1_V100.dll
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\bin\Debug\net6.0\LINQ_Ej1_V100.pdb
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\LINQ_Ej1_V100.csproj.AssemblyReference.cache
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\LINQ_Ej1_V100.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\LINQ_Ej1_V100.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\LINQ_Ej1_V100.AssemblyInfo.cs
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\LINQ_Ej1_V100.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\LINQ_Ej1_V100.dll
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\refint\LINQ_Ej1_V100.dll
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\LINQ_Ej1_V100.pdb
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\LINQ_Ej1_V100.genruntimeconfig.cache
+E:\Documentos\Cursos\CursoCSharp\LINQ_Ej1_V100\LINQ_Ej1_V100\obj\Debug\net6.0\ref\LINQ_Ej1_V100.dll

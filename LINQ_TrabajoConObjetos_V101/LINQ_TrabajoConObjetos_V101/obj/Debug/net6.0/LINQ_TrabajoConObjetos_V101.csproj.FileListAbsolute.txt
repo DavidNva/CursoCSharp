@@ -1,0 +1,15 @@
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\bin\Debug\net6.0\LINQ_TrabajoConObjetos_V101.exe
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\bin\Debug\net6.0\LINQ_TrabajoConObjetos_V101.deps.json
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\bin\Debug\net6.0\LINQ_TrabajoConObjetos_V101.runtimeconfig.json
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\bin\Debug\net6.0\LINQ_TrabajoConObjetos_V101.dll
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\bin\Debug\net6.0\LINQ_TrabajoConObjetos_V101.pdb
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\LINQ_TrabajoConObjetos_V101.csproj.AssemblyReference.cache
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\LINQ_TrabajoConObjetos_V101.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\LINQ_TrabajoConObjetos_V101.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\LINQ_TrabajoConObjetos_V101.AssemblyInfo.cs
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\LINQ_TrabajoConObjetos_V101.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\LINQ_TrabajoConObjetos_V101.dll
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\refint\LINQ_TrabajoConObjetos_V101.dll
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\LINQ_TrabajoConObjetos_V101.pdb
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\LINQ_TrabajoConObjetos_V101.genruntimeconfig.cache
+E:\Documentos\Cursos\CursoCSharp\LINQ_TrabajoConObjetos_V101\LINQ_TrabajoConObjetos_V101\obj\Debug\net6.0\ref\LINQ_TrabajoConObjetos_V101.dll

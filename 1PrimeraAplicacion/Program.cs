@@ -187,7 +187,7 @@ namespace PrimeraAplicacion
            int pesoMitadMango2 = (int)pesoTodosMangos;//Como lo mencionamos, la solucion seria un casting
            System.Console.WriteLine(pesoMitadMango2);
 
-           //Para explicar mejor esto decimos 
+           //Para explicar mejor esto decimos:
            //Se puede pasar de int a double (De manera implicita)
            //Ya que como tal el int entraria a un double quien admite valores enteros y decimales
 
@@ -198,8 +198,8 @@ namespace PrimeraAplicacion
            double tempMex = 6.5;
            tempMex = temp;//COnversion implicita
 
-           double temp1=5.5;
            int tempMex1 = 6;
+           double temp1=5.5;
            tempMex1=(int)temp1;//COnversion explicita */
                       //--------------------------------------------------Video 7 ---------------------Conversion de texto a numeros
            System.Console.WriteLine("Programa para sumar");

@@ -7,7 +7,7 @@ namespace Interfaces_V48{
             Caballo miCaballo  = new Caballo("Potro");
             Humano miHumano = new Humano("David");
             Gorila miGorila = new Gorila("King Kong");
-
+            
             miCaballo.GetNombreSerVivo();
             miCaballo.Galopar();
             Console.WriteLine($"--------------------");
@@ -18,6 +18,7 @@ namespace Interfaces_V48{
 
             miGorila.GetNombreSerVivo();
             miGorila.Trepar();
+            
 
             //Imaginemos que estamos trabajando en equipo, es muy  probable por ejemplo que para este programa se agregen mas animales
             //esto hipoteticamente, ya que como tal el programa no tienen ninguna utilidad

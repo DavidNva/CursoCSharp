@@ -43,7 +43,7 @@ namespace AppBiblioteca
             sqlCommand.Parameters.AddWithValue("@NombreP", txtActualizaUsuarioV.Text);
             sqlCommand.ExecuteNonQuery();
             miConexionSQL.Close();
-            MessageBox.Show("El campo Nombre se actualizó correctamente a: " + txtActualizaUsuarioV.Text);//Se queda en ejecucion de esta linea
+            MessageBox.Show("El campo Nombre se actualizó correctamente a: " + txtActualizaUsuarioV.Text);
             this.Close();
         }
 

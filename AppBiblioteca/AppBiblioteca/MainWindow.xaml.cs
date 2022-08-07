@@ -236,6 +236,13 @@ namespace AppBiblioteca
                     listaCategorias.ItemsSource = categoriasTabla.DefaultView;
 
                 }
+            /*
+              Los using son para que 
+              luego de ejecutar el codigo que esta dentro del using, ese objeto se elimine de la memoria
+              en este caso el objeto sera la ventanaPrestamos llamando a un metodo
+              Dispose que lo que hace es eliminar toda referencia de la memoria (es una buena practica y si no lo hacemos
+              el IDE nos va a advertir que no estamos haciendo la llamada al metodo Dispose();
+            */
 
             }
             catch (Exception ex)
@@ -288,6 +295,8 @@ namespace AppBiblioteca
            
             if (listaUsuarios.SelectedItem != null)
             {
+                //Cuando se crea la ventana, cuando se instancia, se lleva el valor del ID de Usuarios  de esta clase y de esta forma
+                //ya lo podremos usar en la consulta de actualizacion de dicha ventana
                 ActualizarUsuario ventanaActualizarU = new ActualizarUsuario((int)listaUsuarios.SelectedValue);
                 
 
@@ -311,6 +320,20 @@ namespace AppBiblioteca
                     MessageBox.Show(e2.ToString());
                 }
                 ventanaActualizarU.ShowDialog();//Se queda en ejecucion de esta linea (nos lleva a lo que hay en esta ventana y ejecuta todo ello, lo de actualizar)
+                //La diferencia con el metodo Show normal es que 
+                //ShowDialog es Modal, es decir no permite acceder a otras ventanas, solo a ese dialogo, y la ejecucion del programa se detiene alli
+                //hasta que cerramos dicha ventana    
+                /*
+                 * Los formularios modales permiten alternar el foco entre dos formularios sin necesidad de cerrar el formulario inicial. 
+                 * El usuario puede continuar trabajando en otro lugar, en cualquier aplicación, mientras se muestra el formulario.
+                 */
+                //Las diferencias a nivel tecnico: 
+                //Show normal, por ejemplo nos abre dos hilos diferentes(por eso podemos regresar a la ventana)
+                //Dos hilos donde vamos a poner cada uno de los formularios
+                //en cambio el showDialog(); solo nos permite un hilo, en realidad utiliza el mismo hilo del proceso para mostrar ambos formularios
+                //y por eso uno queda bloqueado hasta que se cierre dicho dialogo
+                //thread = hilo de un proceso       
+     
                 muestraUsuarios();//Cuando se cierra pasa a la siguiente linea, y en esta mostramos de nuevo los usuarios, para ver reflejada la actualizacion (segunda forma de hacerlo)
             }
             else {MessageBox.Show("Selecciona primero un usuario para actualizar","Información",MessageBoxButton.OK,MessageBoxImage.Information); }
