@@ -13,6 +13,7 @@
       <Column Name="ID_Sala" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
       <Column Name="ID_Categoria" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
       <Column Name="ID_Editorial" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="Libro_LibroAutor" Member="LibroAutor" ThisKey="IDLibro" OtherKey="ID_Libro" Type="LibroAutor" />
       <Association Name="Sala_Libro" Member="Sala" ThisKey="ID_Sala" OtherKey="IDSala" Type="Sala" IsForeignKey="true" />
     </Type>
   </Table>
@@ -46,6 +47,23 @@
       <Column Name="ID_TipoPersona" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
       <Column Name="FechaCreacion" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
       <Association Name="TipoPersona_Usuario" Member="TipoPersona" ThisKey="ID_TipoPersona" OtherKey="IdTipoPersona" Type="TipoPersona" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Autor" Member="Autor">
+    <Type Name="Autor">
+      <Column Name="IDAutor" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Nombre" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Column Name="Apellidos" Type="System.String" DbType="NVarChar(40) NOT NULL" CanBeNull="false" />
+      <Association Name="Autor_LibroAutor" Member="LibroAutor" ThisKey="IDAutor" OtherKey="ID_Autor" Type="LibroAutor" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LibroAutor" Member="LibroAutor">
+    <Type Name="LibroAutor">
+      <Column Name="IDLibroAutor" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ID_Libro" Type="System.String" DbType="VarChar(25) NOT NULL" CanBeNull="false" />
+      <Column Name="ID_Autor" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Association Name="Autor_LibroAutor" Member="Autor" ThisKey="ID_Autor" OtherKey="IDAutor" Type="Autor" IsForeignKey="true" />
+      <Association Name="Libro_LibroAutor" Member="Libro" ThisKey="ID_Libro" OtherKey="IDLibro" Type="Libro" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
     </Type>
   </Table>
 </Database>

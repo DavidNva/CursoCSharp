@@ -178,15 +178,15 @@ namespace Biblioteca_LINQ_SQL
             //las tablas identity podemos hacer insercion multimple
             //No se aplican los valores default
             //El orden en que escribamos cada propiedad no importa, podemos ingresar primero el ultimo valor y viceversa
-            //Se estan respetando los indices declarados (como no repetir nombres completos de usuarios o repetir una sala),
-            //Tambien se estan respetando las foreign key, las llaves primarias
+            //Se estan respetando los indices unicos declarados (como no repetir nombres completos de usuarios o repetir una sala),
+            //Tambien se estan respetando las primary key, las llaves primarias y las foreign key 
 
             //Los triggers si se estan aplicando, como lo de disminuir un valor a ejemplar con cada prestamo o al eliminar prestamo, se aumenta un ejemplar (esto lo comprobamos en proyectos anteriores
             //Pero recordar, que los triggers en SQL solo aplican por una instruccion a la vez (por lo que el trigger para autogenerar codigo
             //de nuestras tablas como sala, categoria, editorial, etc) entonces, solo podemos insertar una a la vez. De lo contrario dará error de duplicacion de llave primaria
 
             //Despues de esto, decidimos cambiar a aceptar null en observaciones de usuario
-            //Sera mas facil identificar que usuarios han hecho algo o tiene observaciones, porque habria algo escrito
+            //Sera mas facil identificar que usuarios han hecho algo o tiene observaciones, (porque habria algo escrito)
             //pero si no, se supone que todo esta bien, y por eso en observaciones estaria en blanco
         }
 

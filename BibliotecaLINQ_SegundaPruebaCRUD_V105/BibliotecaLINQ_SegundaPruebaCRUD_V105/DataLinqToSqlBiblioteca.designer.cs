@@ -42,6 +42,12 @@ namespace BibliotecaLINQ_SegundaPruebaCRUD_V105
     partial void InsertUsuario(Usuario instance);
     partial void UpdateUsuario(Usuario instance);
     partial void DeleteUsuario(Usuario instance);
+    partial void InsertAutor(Autor instance);
+    partial void UpdateAutor(Autor instance);
+    partial void DeleteAutor(Autor instance);
+    partial void InsertLibroAutor(LibroAutor instance);
+    partial void UpdateLibroAutor(LibroAutor instance);
+    partial void DeleteLibroAutor(LibroAutor instance);
     #endregion
 		
 		public DataLinqToSqlBibliotecaDataContext() : 
@@ -105,6 +111,22 @@ namespace BibliotecaLINQ_SegundaPruebaCRUD_V105
 				return this.GetTable<Usuario>();
 			}
 		}
+		
+		public System.Data.Linq.Table<Autor> Autor
+		{
+			get
+			{
+				return this.GetTable<Autor>();
+			}
+		}
+		
+		public System.Data.Linq.Table<LibroAutor> LibroAutor
+		{
+			get
+			{
+				return this.GetTable<LibroAutor>();
+			}
+		}
 	}
 	
 	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Libro")]
@@ -134,6 +156,8 @@ namespace BibliotecaLINQ_SegundaPruebaCRUD_V105
 		private string _ID_Categoria;
 		
 		private string _ID_Editorial;
+		
+		private EntitySet<LibroAutor> _LibroAutor;
 		
 		private EntityRef<Sala> _Sala;
 		
@@ -167,6 +191,7 @@ namespace BibliotecaLINQ_SegundaPruebaCRUD_V105
 		
 		public Libro()
 		{
+			this._LibroAutor = new EntitySet<LibroAutor>(new Action<LibroAutor>(this.attach_LibroAutor), new Action<LibroAutor>(this.detach_LibroAutor));
 			this._Sala = default(EntityRef<Sala>);
 			OnCreated();
 		}
@@ -395,6 +420,19 @@ namespace BibliotecaLINQ_SegundaPruebaCRUD_V105
 			}
 		}
 		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Libro_LibroAutor", Storage="_LibroAutor", ThisKey="IDLibro", OtherKey="ID_Libro")]
+		public EntitySet<LibroAutor> LibroAutor
+		{
+			get
+			{
+				return this._LibroAutor;
+			}
+			set
+			{
+				this._LibroAutor.Assign(value);
+			}
+		}
+		
 		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Sala_Libro", Storage="_Sala", ThisKey="ID_Sala", OtherKey="IDSala", IsForeignKey=true)]
 		public Sala Sala
 		{
@@ -447,6 +485,18 @@ namespace BibliotecaLINQ_SegundaPruebaCRUD_V105
 			{
 				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
 			}
+		}
+		
+		private void attach_LibroAutor(LibroAutor entity)
+		{
+			this.SendPropertyChanging();
+			entity.Libro = this;
+		}
+		
+		private void detach_LibroAutor(LibroAutor entity)
+		{
+			this.SendPropertyChanging();
+			entity.Libro = null;
 		}
 	}
 	
@@ -1044,6 +1094,336 @@ namespace BibliotecaLINQ_SegundaPruebaCRUD_V105
 						this._ID_TipoPersona = default(int);
 					}
 					this.SendPropertyChanged("TipoPersona");
+				}
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+			}
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.Autor")]
+	public partial class Autor : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private string _IDAutor;
+		
+		private string _Nombre;
+		
+		private string _Apellidos;
+		
+		private EntitySet<LibroAutor> _LibroAutor;
+		
+    #region Definiciones de métodos de extensibilidad
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnIDAutorChanging(string value);
+    partial void OnIDAutorChanged();
+    partial void OnNombreChanging(string value);
+    partial void OnNombreChanged();
+    partial void OnApellidosChanging(string value);
+    partial void OnApellidosChanged();
+    #endregion
+		
+		public Autor()
+		{
+			this._LibroAutor = new EntitySet<LibroAutor>(new Action<LibroAutor>(this.attach_LibroAutor), new Action<LibroAutor>(this.detach_LibroAutor));
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_IDAutor", DbType="VarChar(10) NOT NULL", CanBeNull=false, IsPrimaryKey=true)]
+		public string IDAutor
+		{
+			get
+			{
+				return this._IDAutor;
+			}
+			set
+			{
+				if ((this._IDAutor != value))
+				{
+					this.OnIDAutorChanging(value);
+					this.SendPropertyChanging();
+					this._IDAutor = value;
+					this.SendPropertyChanged("IDAutor");
+					this.OnIDAutorChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Nombre", DbType="NVarChar(40) NOT NULL", CanBeNull=false)]
+		public string Nombre
+		{
+			get
+			{
+				return this._Nombre;
+			}
+			set
+			{
+				if ((this._Nombre != value))
+				{
+					this.OnNombreChanging(value);
+					this.SendPropertyChanging();
+					this._Nombre = value;
+					this.SendPropertyChanged("Nombre");
+					this.OnNombreChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_Apellidos", DbType="NVarChar(40) NOT NULL", CanBeNull=false)]
+		public string Apellidos
+		{
+			get
+			{
+				return this._Apellidos;
+			}
+			set
+			{
+				if ((this._Apellidos != value))
+				{
+					this.OnApellidosChanging(value);
+					this.SendPropertyChanging();
+					this._Apellidos = value;
+					this.SendPropertyChanged("Apellidos");
+					this.OnApellidosChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Autor_LibroAutor", Storage="_LibroAutor", ThisKey="IDAutor", OtherKey="ID_Autor")]
+		public EntitySet<LibroAutor> LibroAutor
+		{
+			get
+			{
+				return this._LibroAutor;
+			}
+			set
+			{
+				this._LibroAutor.Assign(value);
+			}
+		}
+		
+		public event PropertyChangingEventHandler PropertyChanging;
+		
+		public event PropertyChangedEventHandler PropertyChanged;
+		
+		protected virtual void SendPropertyChanging()
+		{
+			if ((this.PropertyChanging != null))
+			{
+				this.PropertyChanging(this, emptyChangingEventArgs);
+			}
+		}
+		
+		protected virtual void SendPropertyChanged(String propertyName)
+		{
+			if ((this.PropertyChanged != null))
+			{
+				this.PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+			}
+		}
+		
+		private void attach_LibroAutor(LibroAutor entity)
+		{
+			this.SendPropertyChanging();
+			entity.Autor = this;
+		}
+		
+		private void detach_LibroAutor(LibroAutor entity)
+		{
+			this.SendPropertyChanging();
+			entity.Autor = null;
+		}
+	}
+	
+	[global::System.Data.Linq.Mapping.TableAttribute(Name="dbo.LibroAutor")]
+	public partial class LibroAutor : INotifyPropertyChanging, INotifyPropertyChanged
+	{
+		
+		private static PropertyChangingEventArgs emptyChangingEventArgs = new PropertyChangingEventArgs(String.Empty);
+		
+		private string _IDLibroAutor;
+		
+		private string _ID_Libro;
+		
+		private string _ID_Autor;
+		
+		private EntityRef<Autor> _Autor;
+		
+		private EntityRef<Libro> _Libro;
+		
+    #region Definiciones de métodos de extensibilidad
+    partial void OnLoaded();
+    partial void OnValidate(System.Data.Linq.ChangeAction action);
+    partial void OnCreated();
+    partial void OnIDLibroAutorChanging(string value);
+    partial void OnIDLibroAutorChanged();
+    partial void OnID_LibroChanging(string value);
+    partial void OnID_LibroChanged();
+    partial void OnID_AutorChanging(string value);
+    partial void OnID_AutorChanged();
+    #endregion
+		
+		public LibroAutor()
+		{
+			this._Autor = default(EntityRef<Autor>);
+			this._Libro = default(EntityRef<Libro>);
+			OnCreated();
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_IDLibroAutor", DbType="VarChar(10) NOT NULL", CanBeNull=false, IsPrimaryKey=true)]
+		public string IDLibroAutor
+		{
+			get
+			{
+				return this._IDLibroAutor;
+			}
+			set
+			{
+				if ((this._IDLibroAutor != value))
+				{
+					this.OnIDLibroAutorChanging(value);
+					this.SendPropertyChanging();
+					this._IDLibroAutor = value;
+					this.SendPropertyChanged("IDLibroAutor");
+					this.OnIDLibroAutorChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID_Libro", DbType="VarChar(25) NOT NULL", CanBeNull=false)]
+		public string ID_Libro
+		{
+			get
+			{
+				return this._ID_Libro;
+			}
+			set
+			{
+				if ((this._ID_Libro != value))
+				{
+					if (this._Libro.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnID_LibroChanging(value);
+					this.SendPropertyChanging();
+					this._ID_Libro = value;
+					this.SendPropertyChanged("ID_Libro");
+					this.OnID_LibroChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.ColumnAttribute(Storage="_ID_Autor", DbType="VarChar(10) NOT NULL", CanBeNull=false)]
+		public string ID_Autor
+		{
+			get
+			{
+				return this._ID_Autor;
+			}
+			set
+			{
+				if ((this._ID_Autor != value))
+				{
+					if (this._Autor.HasLoadedOrAssignedValue)
+					{
+						throw new System.Data.Linq.ForeignKeyReferenceAlreadyHasValueException();
+					}
+					this.OnID_AutorChanging(value);
+					this.SendPropertyChanging();
+					this._ID_Autor = value;
+					this.SendPropertyChanged("ID_Autor");
+					this.OnID_AutorChanged();
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Autor_LibroAutor", Storage="_Autor", ThisKey="ID_Autor", OtherKey="IDAutor", IsForeignKey=true)]
+		public Autor Autor
+		{
+			get
+			{
+				return this._Autor.Entity;
+			}
+			set
+			{
+				Autor previousValue = this._Autor.Entity;
+				if (((previousValue != value) 
+							|| (this._Autor.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._Autor.Entity = null;
+						previousValue.LibroAutor.Remove(this);
+					}
+					this._Autor.Entity = value;
+					if ((value != null))
+					{
+						value.LibroAutor.Add(this);
+						this._ID_Autor = value.IDAutor;
+					}
+					else
+					{
+						this._ID_Autor = default(string);
+					}
+					this.SendPropertyChanged("Autor");
+				}
+			}
+		}
+		
+		[global::System.Data.Linq.Mapping.AssociationAttribute(Name="Libro_LibroAutor", Storage="_Libro", ThisKey="ID_Libro", OtherKey="IDLibro", IsForeignKey=true, DeleteOnNull=true, DeleteRule="CASCADE")]
+		public Libro Libro
+		{
+			get
+			{
+				return this._Libro.Entity;
+			}
+			set
+			{
+				Libro previousValue = this._Libro.Entity;
+				if (((previousValue != value) 
+							|| (this._Libro.HasLoadedOrAssignedValue == false)))
+				{
+					this.SendPropertyChanging();
+					if ((previousValue != null))
+					{
+						this._Libro.Entity = null;
+						previousValue.LibroAutor.Remove(this);
+					}
+					this._Libro.Entity = value;
+					if ((value != null))
+					{
+						value.LibroAutor.Add(this);
+						this._ID_Libro = value.IDLibro;
+					}
+					else
+					{
+						this._ID_Libro = default(string);
+					}
+					this.SendPropertyChanged("Libro");
 				}
 			}
 		}
