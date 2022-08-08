@@ -1,0 +1,15 @@
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\bin\Debug\net6.0\Threads_V108.exe
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\bin\Debug\net6.0\Threads_V108.deps.json
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\bin\Debug\net6.0\Threads_V108.runtimeconfig.json
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\bin\Debug\net6.0\Threads_V108.dll
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\bin\Debug\net6.0\Threads_V108.pdb
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\Threads_V108.csproj.AssemblyReference.cache
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\Threads_V108.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\Threads_V108.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\Threads_V108.AssemblyInfo.cs
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\Threads_V108.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\Threads_V108.dll
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\refint\Threads_V108.dll
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\Threads_V108.pdb
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\Threads_V108.genruntimeconfig.cache
+E:\Documentos\Cursos\CursoCSharp\Threads_V108\Threads_V108\obj\Debug\net6.0\ref\Threads_V108.dll
