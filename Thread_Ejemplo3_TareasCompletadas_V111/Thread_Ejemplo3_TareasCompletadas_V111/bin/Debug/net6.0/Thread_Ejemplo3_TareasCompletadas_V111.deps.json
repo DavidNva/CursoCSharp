@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Thread_Ejemplo3_TareasCompletadas_V111/1.0.0": {
+        "runtime": {
+          "Thread_Ejemplo3_TareasCompletadas_V111.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Thread_Ejemplo3_TareasCompletadas_V111/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

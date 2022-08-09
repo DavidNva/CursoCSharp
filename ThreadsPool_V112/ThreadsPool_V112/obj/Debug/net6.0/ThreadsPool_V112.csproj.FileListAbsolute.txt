@@ -1,0 +1,15 @@
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\bin\Debug\net6.0\ThreadsPool_V112.exe
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\bin\Debug\net6.0\ThreadsPool_V112.deps.json
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\bin\Debug\net6.0\ThreadsPool_V112.runtimeconfig.json
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\bin\Debug\net6.0\ThreadsPool_V112.dll
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\bin\Debug\net6.0\ThreadsPool_V112.pdb
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ThreadsPool_V112.csproj.AssemblyReference.cache
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ThreadsPool_V112.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ThreadsPool_V112.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ThreadsPool_V112.AssemblyInfo.cs
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ThreadsPool_V112.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ThreadsPool_V112.dll
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\refint\ThreadsPool_V112.dll
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ThreadsPool_V112.pdb
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ThreadsPool_V112.genruntimeconfig.cache
+E:\Documentos\Cursos\CursoCSharp\ThreadsPool_V112\ThreadsPool_V112\obj\Debug\net6.0\ref\ThreadsPool_V112.dll
