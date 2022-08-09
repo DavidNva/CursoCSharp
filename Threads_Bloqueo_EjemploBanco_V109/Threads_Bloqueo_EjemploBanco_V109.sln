@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threads_Bloqueo_EjemploBanco_V109", "Threads_Bloqueo_EjemploBanco_V109\Threads_Bloqueo_EjemploBanco_V109.csproj", "{8D916403-EB0C-4DB5-85A9-FB6B9CEF49CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D916403-EB0C-4DB5-85A9-FB6B9CEF49CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D916403-EB0C-4DB5-85A9-FB6B9CEF49CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D916403-EB0C-4DB5-85A9-FB6B9CEF49CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D916403-EB0C-4DB5-85A9-FB6B9CEF49CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74340A56-9D15-4F75-92AD-D2D94CFA38FB}
+	EndGlobalSection
+EndGlobal
