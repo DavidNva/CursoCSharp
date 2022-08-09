@@ -1,0 +1,15 @@
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\bin\Debug\net6.0\TASK_III_MetWait_V115.exe
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\bin\Debug\net6.0\TASK_III_MetWait_V115.deps.json
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\bin\Debug\net6.0\TASK_III_MetWait_V115.runtimeconfig.json
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\bin\Debug\net6.0\TASK_III_MetWait_V115.dll
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\bin\Debug\net6.0\TASK_III_MetWait_V115.pdb
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\TASK_III_MetWait_V115.csproj.AssemblyReference.cache
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\TASK_III_MetWait_V115.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\TASK_III_MetWait_V115.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\TASK_III_MetWait_V115.AssemblyInfo.cs
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\TASK_III_MetWait_V115.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\TASK_III_MetWait_V115.dll
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\refint\TASK_III_MetWait_V115.dll
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\TASK_III_MetWait_V115.pdb
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\TASK_III_MetWait_V115.genruntimeconfig.cache
+E:\Documentos\Cursos\CursoCSharp\TASK_III_MetWait_V115\TASK_III_MetWait_V115\obj\Debug\net6.0\ref\TASK_III_MetWait_V115.dll
