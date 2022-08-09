@@ -1,0 +1,15 @@
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\bin\Debug\net6.0\Task_V113.exe
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\bin\Debug\net6.0\Task_V113.deps.json
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\bin\Debug\net6.0\Task_V113.runtimeconfig.json
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\bin\Debug\net6.0\Task_V113.dll
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\bin\Debug\net6.0\Task_V113.pdb
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\Task_V113.csproj.AssemblyReference.cache
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\Task_V113.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\Task_V113.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\Task_V113.AssemblyInfo.cs
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\Task_V113.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\Task_V113.dll
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\refint\Task_V113.dll
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\Task_V113.pdb
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\Task_V113.genruntimeconfig.cache
+E:\Documentos\Cursos\CursoCSharp\Task_V113\Task_V113\obj\Debug\net6.0\ref\Task_V113.dll
