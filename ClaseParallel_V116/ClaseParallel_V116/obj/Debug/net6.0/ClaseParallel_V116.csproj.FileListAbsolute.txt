@@ -1,0 +1,15 @@
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\bin\Debug\net6.0\ClaseParallel_V116.exe
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\bin\Debug\net6.0\ClaseParallel_V116.deps.json
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\bin\Debug\net6.0\ClaseParallel_V116.runtimeconfig.json
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\bin\Debug\net6.0\ClaseParallel_V116.dll
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\bin\Debug\net6.0\ClaseParallel_V116.pdb
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ClaseParallel_V116.csproj.AssemblyReference.cache
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ClaseParallel_V116.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ClaseParallel_V116.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ClaseParallel_V116.AssemblyInfo.cs
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ClaseParallel_V116.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ClaseParallel_V116.dll
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\refint\ClaseParallel_V116.dll
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ClaseParallel_V116.pdb
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ClaseParallel_V116.genruntimeconfig.cache
+E:\Documentos\Cursos\CursoCSharp\ClaseParallel_V116\ClaseParallel_V116\obj\Debug\net6.0\ref\ClaseParallel_V116.dll

@@ -1,0 +1,15 @@
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\bin\Debug\net6.0\CancelacionTask_V117.exe
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\bin\Debug\net6.0\CancelacionTask_V117.deps.json
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\bin\Debug\net6.0\CancelacionTask_V117.runtimeconfig.json
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\bin\Debug\net6.0\CancelacionTask_V117.dll
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\bin\Debug\net6.0\CancelacionTask_V117.pdb
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\CancelacionTask_V117.csproj.AssemblyReference.cache
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\CancelacionTask_V117.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\CancelacionTask_V117.AssemblyInfoInputs.cache
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\CancelacionTask_V117.AssemblyInfo.cs
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\CancelacionTask_V117.csproj.CoreCompileInputs.cache
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\CancelacionTask_V117.dll
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\refint\CancelacionTask_V117.dll
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\CancelacionTask_V117.pdb
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\CancelacionTask_V117.genruntimeconfig.cache
+E:\Documentos\Cursos\CursoCSharp\CancelacionTask_V117\CancelacionTask_V117\obj\Debug\net6.0\ref\CancelacionTask_V117.dll
